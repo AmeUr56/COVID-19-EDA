@@ -92,19 +92,13 @@ I created small api for sharing data between notebooks.
 - 2.4 Feature Engineering
 
 ## 3. Data Exploration & Visualization
-- 3.1 Univariate Analysis
+- 3.1 Univariate Analysis & Descriptive Statistics
 - 3.2 Bivariate Analysis 
 - 3.3 Geospatial Visualization
 - 3.4 Time Series Analysis
 - 3.5 Multivariate Analysis
 
-## 4. Statistical Analysis
-- 4.1 Descriptive Statistics
-- 4.2 Trend Analysis
-- 4.3 Outlier Detection
-- 4.4 Hypothesis Testing
-
-## 5. Insights & Conclusion
+## 4. Insights & Conclusion
 
 # How to Run  
 
